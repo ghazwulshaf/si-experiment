@@ -1,0 +1,10 @@
+#button1 {
+    display:inline-block;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    background-color: skyblue;
+    border-radius: 0.6em;
+    padding: 1.2em 2.8em;
+}
